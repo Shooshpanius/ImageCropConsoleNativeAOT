@@ -35,7 +35,7 @@ class Program
 
 
 
-
+// from https://stackoverflow.com/questions/8057380/cropping-whitespace-from-image-in-c-sharp
 class ImageCrop
 {
     public static byte[][] GetRGB(Bitmap bmp)
